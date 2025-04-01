@@ -21,7 +21,7 @@
   </ItemGroup>
 	
   <ItemGroup>
-    <ProjectReference Include="..\ClassLibrary1\HTTPClassLib.csproj" />
+    <ProjectReference Include="..\ClassLibrary1\HTTPClassLibrary.csproj" />
   </ItemGroup>
 
 </Project>
